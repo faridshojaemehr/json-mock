@@ -10,25 +10,115 @@
       "id": 2,
       "title": "Client meeting",
       "desc": "Attend the meeting with the client to discuss project updates.",
-      "status": "completed"
+      "status": "done"
     },
     {
       "id": 3,
       "title": "Code review",
       "desc": "Review the code submitted by the team and provide feedback.",
-      "status": "pending"
+      "status": "todo"
     },
     {
       "id": 4,
       "title": "Design mockup",
       "desc": "Create a mockup for the new landing page.",
-      "status": "not-started"
+      "status": "done"
     },
     {
       "id": 5,
       "title": "Update documentation",
       "desc": "Update the project documentation with the latest changes.",
       "status": "in-progress"
+    },
+    {
+      "id": 6,
+      "title": "Fix bugs",
+      "desc": "Resolve the bugs reported in the last sprint.",
+      "status": "todo"
+    },
+    {
+      "id": 7,
+      "title": "Prepare presentation",
+      "desc": "Create slides for the upcoming client presentation.",
+      "status": "done"
+    },
+    {
+      "id": 8,
+      "title": "Team meeting",
+      "desc": "Schedule a meeting to discuss the next sprint planning.",
+      "status": "in-progress"
+    },
+    {
+      "id": 9,
+      "title": "Develop feature X",
+      "desc": "Start development on the new feature requested by the client.",
+      "status": "done"
+    },
+    {
+      "id": 10,
+      "title": "Test application",
+      "desc": "Perform unit testing on the new features.",
+      "status": "todo"
+    },
+    {
+      "id": 11,
+      "title": "Write test cases",
+      "desc": "Create test cases for the new functionality added.",
+      "status": "in-progress"
+    },
+    {
+      "id": 12,
+      "title": "Code optimization",
+      "desc": "Optimize the existing code for better performance.",
+      "status": "done"
+    },
+    {
+      "id": 13,
+      "title": "Prepare deployment",
+      "desc": "Get the application ready for deployment to the production environment.",
+      "status": "todo"
+    },
+    {
+      "id": 14,
+      "title": "User feedback review",
+      "desc": "Review and categorize feedback from users.",
+      "status": "in-progress"
+    },
+    {
+      "id": 15,
+      "title": "Database migration",
+      "desc": "Migrate the database to the new server.",
+      "status": "done"
+    },
+    {
+      "id": 16,
+      "title": "Security audit",
+      "desc": "Conduct a security audit on the application.",
+      "status": "todo"
+    },
+    {
+      "id": 17,
+      "title": "Bug triage",
+      "desc": "Prioritize bugs reported by users.",
+      "status": "done"
+    },
+    {
+      "id": 18,
+      "title": "Create API documentation",
+      "desc": "Document the API endpoints for the new features.",
+      "status": "in-progress"
+    },
+    {
+      "id": 19,
+      "title": "Update website content",
+      "desc": "Refresh the content on the company website.",
+      "status": "todo"
+    },
+    {
+      "id": 20,
+      "title": "Prepare release notes",
+      "desc": "Write the release notes for the upcoming version.",
+      "status": "done"
     }
   ]
 }
